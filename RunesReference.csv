@@ -1,0 +1,83 @@
+RUNENAME,RUNEWEIGHT,RUNEVALUE,FEATURENAME
+Ine,1,1,Intelligence
+Fo,1,1,Force
+Cha,1,1,Chance
+Age,1,1,Agilité
+Vi,0.75,3,Vitalité
+Sa,3,1,Sagesse
+Pui,2,1,Puissance
+Pa Ine,3,3,Intelligence
+Pa Fo,3,3,Force
+Pa Cha,3,3,Chance
+Pa Age,3,3,Agilité
+Pa Vi,2.5,10,Vitalité
+Pa Sa,9,3,Sagesse
+Pa Pui,6,3,Puissance
+Ra Ine,10,10,Intelligence
+Ra Fo,10,10,Force
+Ra Cha,10,10,Chance
+Ra Age,10,10,Agilité
+Ra Vi,7.5,30,Vitalité
+Ra Sa,30,10,Sagesse
+Ra Pui,20,10,Puissance
+Do,20,1,Dommages
+Do Feu,5,1,Dommages Feu
+Do Terre,5,1,Dommages Terre
+Do Eau,5,1,Dommages Eau
+Do Air,5,1,Dommages Air
+Do Neutre,5,1,Dommages Neutre
+Do Pou,5,1,Dommages Poussée
+Do Cri,5,1,Dommages Critiques
+Do Ren,30,1,Renvois dommages
+Pa Do Feu,15,3,Dommages Feu
+Pa Do Terre,15,3,Dommages Terre
+Pa Do Eau,15,3,Dommages Eau
+Pa Do Air,15,3,Dommages Air
+Pa Do Neutre,15,3,Dommages Neutre
+Pa Do Pou,15,3,Dommages Poussée
+Pa Do Cri,15,3,Dommages Critiques
+Ré Feu,2,1,Résistance Feu
+Ré Terre,2,1,Résistance Terre
+Ré Eau,2,1,Résistance Eau
+Ré Air,2,1,Résistance Air
+Ré Neutre,2,1,Résistance Neutre
+Ré Per Feu,6,1,% Résistance Feu
+Ré Per Terre,6,1,% Résistance Terre
+Ré Per Eau,6,1,% Résistance Eau
+Ré Per Air,6,1,% Résistance Air
+Ré Per Neutre,6,1,% Résistance Neutre
+Ré Pou,2,1,Résistance Poussée
+Ré Cri,2,1,Résistance Critiques
+Ré Pa,7,1,Esquive PA
+Ré Pm,7,1,Esquive PM
+Pa Ré Pou,6,3,Résistance Poussée
+Pa Ré Cri,6,3,Résistance Critiques
+Pa Ré Pa,21,3,Esquive PA
+Pa Ré Pm,21,3,Esquive PM
+Ga Pa,100,1,PA
+Ga Pm,90,1,PM
+Po,51,1,Portée
+So,20,1,Soins
+Invo,30,1,Invocations
+Cri,30,1,Coups Critique
+Prospe,3,1,Prospection
+Pa Prospe,9,3,Prospection
+Ini,1,10,Initiative
+Pa Ini,3,30,Initiative
+Ra Ini,10,100,Initiative
+Pod,2.5,10,Pods
+Pa Pod,7.5,30,Pods
+Ra Pod,25,100,Pods
+Pi,5,1,Dommages (pièges)
+Pa Pi,15,3,Dommages (pièges)
+Pi Per,2,1,Puissance (pièges)
+Pa Pi Per,6,3,Puissance (pièges)
+Ra Pi Per,20,10,Puissance (pièges)
+Ret Pa,7,1,Retrait Pa
+Ret Pm,7,1,Retrait Pm
+Tac,4,1,Tacle
+Fui,4,1,Fuite
+Pa Ret Pa,21,3,Retrait Pa
+Pa Ret Pm,21,3,Retrait Pm
+Pa Tac,12,3,Tacle
+Pa Fui,12,3,Fuite
